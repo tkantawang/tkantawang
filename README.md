@@ -14,7 +14,7 @@ Advancing my expertise in genomic data science
 Exploring applications of fungal genomics in biotechnology
 Learning about patent law and its impact on biotech innovation
 📫 Let's Connect:
-GitHub: [Your GitHub Profile URL]
+GitHub: https://github.com/tkantawang
 LinkedIn: www.linkedin.com/in/titirat-kantawang
 Email: tkantawang@gmail.com
 
