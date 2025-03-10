@@ -1,8 +1,22 @@
-- 👋 Hi, I’m @tkantawang
-- 👀 I’m interested in data anaysis
-- 🌱 I’m currently learning Coding
-- 💞️ I’m looking to collaborate on data analysis entry level
-- 📫 How to reach me tkantawang@gmail.com
+👋 Hi there! I'm Titirat Kantawang
+🔬 Biotechnologist | Genomic Data Scientist | Patent Enthusiast
+
+I have 16+ years of experience in molecular biology research, specializing in genomics, fungal biology, and genetic engineering. My research has spanned optoporation-based gene transformation, bioinformatics, and data-driven genomic analysis.
+
+🧬 My Expertise:
+Genomic Data Science: Python, R, SQL, NGS data analysis, variant calling
+Fungal Genomics: Gene expression, functional genomics, comparative genomics
+Cancer Genomics: Mutation analysis, precision medicine approaches
+Molecular Biology: CRISPR, transfection, sequencing technologies
+Patent Law & Biotech Innovation: Exploring IP protection in genomics
+🚀 Currently:
+Advancing my expertise in genomic data science
+Exploring applications of fungal genomics in biotechnology
+Learning about patent law and its impact on biotech innovation
+📫 Let's Connect:
+GitHub: [Your GitHub Profile URL]
+LinkedIn: www.linkedin.com/in/titirat-kantawang
+Email: tkantawang@gmail.com
 
 <!---
 tkantawang/tkantawang is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
